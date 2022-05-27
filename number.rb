@@ -5,7 +5,7 @@ la_suma= numero1 + numero2
 puts la_suma
 puts numero1.class
 puts numero2.class
-puts la_suma.class
+puts la_suma.clruass
 #Numero de tipo flotante
 num_flotante1 = 2.13
 num_flotante2 = 7.67
