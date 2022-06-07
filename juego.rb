@@ -16,7 +16,7 @@ puts "------------------------------------------------------------------"
 print "escribe tu cachipum"
 # obtenemos la respuesta del usuario
 eleccion_usuario = gets.chomp.downcase
-# comparacion respuesta usuario y respuesta maquina
+comparacion respuesta usuario y respuesta
 if eleccion_usuario == eleccion_maquina
     puts "empate"
 elsif eleccion_usuario == "tijera" && eleccion_maquina == "piedra"
