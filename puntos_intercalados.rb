@@ -5,8 +5,8 @@ n= gets.chomp.to_i
 
 if var_block.even?
     print var_block
-else
+    else
     print "."
-end
+    end
 
 end
