@@ -5,7 +5,7 @@ if ingredientes_pizza.include?(ingredienteBuscar) == true
 puts "el ingrediente ya existe agregado a tu pizza"
 else
 ingredientes_pizza.push(ingredienteBuscar)
-puts "ingrediente agregando lista"
+puts "ingrediente agregando a lista"
 
 end 
 print ingredientes_pizza
