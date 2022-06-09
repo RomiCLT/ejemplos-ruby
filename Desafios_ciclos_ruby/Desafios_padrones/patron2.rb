@@ -1,4 +1,4 @@
-print "¿que patron deseas hacer?"
+print "¿que patron deseas hacer?:"
 n = 10
 
 n.times do |i|
