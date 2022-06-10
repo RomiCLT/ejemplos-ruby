@@ -14,3 +14,6 @@ minutos.each do |i|
     print resultado
 end
 scan_addicts(minutos)
+
+
+resultado = minutos.select {|min| min >=90}

@@ -8,4 +8,4 @@ print "dame un numero"
 numero1 = gets.chomp
 print 'dame otro numero'
 numero2 = gets.chomp.to_i
-puts suma = numero1 + numero2
+string suma= numero1 + numero2
